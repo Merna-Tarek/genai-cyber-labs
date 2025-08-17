@@ -1,0 +1,61 @@
+[
+    {
+        "difficulty": "easy",
+        "subject": "Urgent! Your account will be closed",
+        "sender": "support@paypall-security.com",
+        "body": "Dear Customer, Your acc0unt is blocked. Cl1ck here to fix: http://fake-link.com",
+        "technique": "Generic scam with spelling mistakes",
+        "timestamp": "2025-08-17T15:12:48.149760"
+    },
+    {
+        "difficulty": "easy",
+        "subject": "YOU WON $1,000,000",
+        "sender": "lottery@bigprize.ru",
+        "body": "Congratulation dear user!! Click fast to cliam your big prize: http://scamlink.win",
+        "technique": "Lottery scam",
+        "timestamp": "2025-08-17T15:12:48.149760"
+    },
+    {
+        "difficulty": "easy",
+        "subject": "YOU WON $1,000,000",
+        "sender": "lottery@bigprize.ru",
+        "body": "Congratulation dear user!! Click fast to cliam your big prize: http://scamlink.win",
+        "technique": "Lottery scam",
+        "timestamp": "2025-08-17T15:12:48.149760"
+    },
+    {
+        "difficulty": "intermediate",
+        "subject": "Password Reset for Your Amazon Account",
+        "sender": "amaz0n-security-notice@amazon.com",
+        "body": "Dear Amazon Customer, please click on the link below to reset your password: https://f4ke-amazon.com/reset-password/\n\nBest regards, Amazon Security Team",
+        "technique": "Spear phishing with urgency"
+    },
+    {
+        "difficulty": "intermediate",
+        "subject": "Update Required for Your Google Account",
+        "sender": "google-accounts-update@gmail.com",
+        "body": "Dear Google User, our system has detected suspicious activity on your account. Please follow this link to update your information: https://g00gle-update.com/update-info/\n\nBest regards, Google Security",
+        "technique": "Phishing with a sense of legitimacy"
+    },
+    {
+        "difficulty": "intermediate",
+        "subject": "Suspicious Activity on Your Bank Account",
+        "sender": "bank-security-notifications@bankofamerica.com",
+        "body": "Dear Valued Customer, our system has flagged some unusual transactions on your Bank of America account. Please visit the link below for more information: https://f4ke-bank.com/investigate-activity/\n\nBest regards, Bank of America Security",
+        "technique": "Phishing with a sense of urgency"
+    },
+    {
+        "difficulty": "intermediate",
+        "subject": "Confirm Your eBay Account",
+        "sender": "ebay-account-verification@ebay.com",
+        "body": "Dear eBay User, our system has detected that your account has been compromised. Please follow this link to verify your information: https://e-b4y.com/verify-account/\n\nBest regards, eBay Support",
+        "technique": "Phishing with a sense of legitimacy"
+    },
+    {
+        "difficulty": "intermediate",
+        "subject": "Verify Your PayPal Account",
+        "sender": "paypal-security-verification@paypal.com",
+        "body": "Dear PayPal Customer, our system requires you to confirm your payment information. Please visit the link below: https://f4k-paypal.com/verify-info/\n\nBest regards, PayPal Security Team",
+        "technique": "Phishing with a sense of legitimacy"
+    }
+]
